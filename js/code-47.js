@@ -1,0 +1,1 @@
+document.querySelector(".user-47").textContent="Happy new year!";
